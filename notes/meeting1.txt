@@ -1,0 +1,36 @@
+submission deadline 4/19
+
+Two tracks:
+health/wellness
+OR climate/sustainability
+
+requirements:
+- don't redo same exact idea
+- limited resources and time
+- cleaner & simpler to implement
+- have to make video
+- explain further via ppt
+
+good ideas:
+- adapting viber for elderly persons, not familiar w social media
+	- less distractions, simpler ui
+	- organized via activity
+	- more security, ie. less advertising
+	- may use ai to recommend spaces
+- or other social groups
+	- physical disabilities?
+	- mental health?
+- exercise form using ai image classification
+	- could use ai generated exercise set
+	- concern: may be hard to do
+- mental health checker via face expression or speech
+	- abnormalities can be detected early
+	- gamification like duolingo?
+		- concern: i don't think this is strong enough motivation for people to use this app
+		- unlikely that teenagers will use these kinds of things
+- stroke detection
+	- is it possible to detect early via speech patterns?
+	- concern: not likely to be using app at that exact time
+
+- other physical problems, use data points from smartwatch?
+	- detect the physical problems prior to them becoming an issue
