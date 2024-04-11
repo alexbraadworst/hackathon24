@@ -1,0 +1,8 @@
+Using Web APIs with JSON
+https://ai2.appinventor.mit.edu/reference/other/json-web-apis.html
+
+Description: Gives some examples of how to make a JSON request using AppInventor
+
+---
+
+

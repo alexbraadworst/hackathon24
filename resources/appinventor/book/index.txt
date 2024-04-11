@@ -1,0 +1,7 @@
+Only chapters that are relevant should be here.
+
+Chapter 22
+Description: Shows how to do web communication
+
+Chapter 24
+Description: Has information on using databases
