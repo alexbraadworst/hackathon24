@@ -1,0 +1,25 @@
+Screen Assignments
+last update: April 10
+
+Check off if the particular screen is finished
+example:
+
+[X] Finished
+[ ] Unfinished
+
+Alex:
+[ ] Welcome Screen
+[ ] Settings Screen
+[ ] General help
+
+Caillun:
+[ ] About Pomodoro
+[ ] Task View
+[ ] Task Info
+[ ] Share Task
+
+Miranda:
+[ ] Home Page
+[ ] Intervention
+[ ] Helpers (low priority)
+
