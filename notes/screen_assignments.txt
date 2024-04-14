@@ -1,5 +1,5 @@
 Screen Assignments
-last update: April 10
+last update: April 13 23:09 EST
 
 Check off if the particular screen is finished
 example:
@@ -9,7 +9,7 @@ example:
 
 Alex:
 [ ] Welcome Screen
-[ ] Settings Screen
+[X] Settings Screen
 [ ] General help
 
 Caillun:
