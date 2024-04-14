@@ -1,5 +1,5 @@
 Screen Assignments
-last update: April 13 23:09 EST
+last update: April 13 23:26 EST
 
 Check off if the particular screen is finished
 example:
@@ -8,7 +8,7 @@ example:
 [ ] Unfinished
 
 Alex:
-[ ] Welcome Screen
+[X] Welcome Screen
 [X] Settings Screen
 [ ] General help
 
