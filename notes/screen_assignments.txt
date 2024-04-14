@@ -13,7 +13,7 @@ Alex:
 [ ] General help
 
 Caillun:
-[ ] About Pomodoro
+[X] About Pomodoro
 [ ] Task View
 [ ] Task Info
 [ ] Share Task
